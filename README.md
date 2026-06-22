@@ -1,4 +1,4 @@
-# 🐸 Meme Finder
+# 🐸 Meme Finder OCR
 
 A RAG-powered meme search engine. Search your meme collection using plain English.
 
@@ -32,8 +32,8 @@ Image → EasyOCR (reads text) → Groq LLM (understands meme) → FAISS (stores
 ## Run locally
 
 ```bash
-git clone https://github.com/Muhammad-Shiraz/meme_rag_test
-cd meme_rag_test
+git clone https://github.com/Muhammad-Shiraz/meme_rag_ocr
+cd meme_rag_ocr
 pip install -r requirements.txt
 ```
 
